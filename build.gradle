@@ -142,6 +142,8 @@ dependencies {
     // https://mvnrepository.com/artifact/org.json/json
     implementation group: 'org.json', name: 'json', version: '20190722'
 
+    implementation group: 'log4j', name: 'log4j', version: '1.2.11'
+
 	//https://mvnrepository.com/artifact/com.nimbusds/nimbus-jose-jwt
     implementation group: 'com.nimbusds', name: 'nimbus-jose-jwt', version: '8.3'
 
